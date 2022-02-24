@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Most sad and lamentable narration of the death of Michaell Berkly, esquire, lately of Grayes-Inne, a most eminent schollar and traveller, and master of a large estate, who on Thursday May the 6, in the 63 year of his age, was drowned in the duckingpond neer Islington, about ten of the clock in the morning as also, the most deplorable account of Richard Biggrave, coachmaker, who ... did on that day &amp; much about the same time hang himself at his house in Cow-lane : together with a true and sad relation of a woman who did cut her throat in Holborn &amp; of two more who ... did hang themselves in Westminster.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51473</idno>
+            <idno type="STC">Wing M2918</idno>
+            <idno type="STC">ESTC R41517</idno>
+            <idno type="EEBO-CITATION">31355482</idno>
+            <idno type="OCLC">ocm 31355482</idno>
+            <idno type="VID">110494</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110494)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1747:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Most sad and lamentable narration of the death of Michaell Berkly, esquire, lately of Grayes-Inne, a most eminent schollar and traveller, and master of a large estate, who on Thursday May the 6, in the 63 year of his age, was drowned in the duckingpond neer Islington, about ten of the clock in the morning as also, the most deplorable account of Richard Biggrave, coachmaker, who ... did on that day &amp; much about the same time hang himself at his house in Cow-lane : together with a true and sad relation of a woman who did cut her throat in Holborn &amp; of two more who ... did hang themselves in Westminster.</title>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vere, and Wil. Gilbertson, and are to be sold at their shops ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Berkly, Michaell, d. 1658.</term>
+               <term>Biggrave, Richard, d. 1658.</term>
+               <term>London (England) --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110494:1"/>
+            <pb facs="tcp:110494:1" rendition="simple:additions"/>
+            <p>The moſt ſad and Lamentable NARRATION Of the Death of Michaell Berkly Eſquire, lately of <hi>Grayes-Inne,</hi> a moſt eminent Schollar and Traveller, and maſter of a large eſtate, who on <hi>Thurſday May</hi> the 6. in the 63 year of his Age was drowned in the duckingpond neer Iſlington, about ten of the Clock in the Morning.</p>
+            <p>As alſo, The moſt deplorable account of <hi>Richard Biggrave</hi> Coach maker, who being a man well beloved &amp; reputed did on that day &amp; much about the ſame time hang himſelf at his houſe in <hi>Cow-Lane.</hi>
+            </p>
+            <p>Together, With the true and ſad Relation of a woman who did cut her throat in <hi>Holborn,</hi> &amp; of two more who on that day alſo did hang themſelves in <hi>Weſtminſter.</hi>
+            </p>
+            <q>Teach me O Lord to number my dayes, that I may apply my heart unto wiſedome, <bibl>Pſal. 90. 12.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Vere,</hi> and <hi>Wil. Gilbert<g ref="char:EOLhyphen"/>ſon,</hi> and are to be ſold at their ſhops with<g ref="char:EOLunhyphen"/>out Newgate and in Gilt ſpur ſtreet. 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110494:2"/>
+            <pb n="1" facs="tcp:110494:2"/>
+            <head>
+               <hi>The Fatall</hi> Thurſday<g ref="char:punc">▪</g>
+being <hi>May</hi> the 6.</head>
+            <argument>
+               <p>On which day two men, a young man &amp; an old man made away themſelves in <hi>Weſtminster,</hi> A woman of middle age did cut her throat in <hi>Holburn</hi> a houſ<g ref="char:EOLhyphen"/>keeper of quality did hang himſelf in <hi>Cow Lane,</hi> and that great Schollar and travel<g ref="char:EOLhyphen"/>er <hi>Machael Berkley,</hi> was drowned in the in the Ducking-pond not far from Iſling<g ref="char:EOLunhyphen"/>ton.</p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>HE Temptations of the Divel were never more manifeſt then in this Age of ours, nor his power more unreſtrained What a moſt lamentable ac<g ref="char:EOLhyphen"/>cident was that at <hi>Golſtone</hi> in <hi>Lincolnſhire;</hi> where a young man of honou<g ref="char:EOLhyphen"/>rable parentage wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> violently taken away
+<pb n="2" facs="tcp:110494:3"/>
+by the Divel, and ſome part of the houſe with him, his hair and his brains were found mix<g ref="char:EOLhyphen"/>ed on the pales of the Court, and one of his Arms in a cloſe not far from the houſe, moſt violently torn from his body: what is become of his body it ſelf, there is no man can yet diſ<g ref="char:EOLhyphen"/>cover; <hi>Conſider this yee that forget God, leaſt he come and tear you in peeces, &amp; there be none to deliver you.</hi>
+            </p>
+            <p>What an example may this be to many of our young Gallants who ſpend all their time in Ryot, and in wantonneſſe, in drinking, ſwearing and curſing, and in devoting them<g ref="char:EOLhyphen"/>ſelves unto deſtruction, in which they ſtrive to excéed one another, as if they had contracted with the Divel for the Tradition and Mon<g ref="char:EOLhyphen"/>opoly of ſin: Look upon a great part of them and you ſhal find them to diſſemble even with nature it ſelf, and to be but ſo many redicu<g ref="char:EOLhyphen"/>lous Counterfeits.</p>
+            <p>The old men will be young, and do put on the Periwigs of youth: The young-men wil be old; and have their hairs made white with powders; The women do Counterfeit the fears of the Souldiers, and that Lady is not remarkable who hath not a valiant blackſpot <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o upon her face.</p>
+            <p>
+               <pb n="3" facs="tcp:110494:3"/>
+And as we play the Counterfeits and d<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſemble with men, ſo we diſſemble alſo with God: There was never more profeſſion of the Truth, nor leſſe ſincerity, never more preaching, nor leſſe practiſe. We are a peo<g ref="char:EOLhyphen"/>ple that draw néer unto God with our lips but our hearts are far from him.</p>
+            <p>
+               <hi>Thoſe that will not draw neer unto God God will draw far from them, and wil with<g ref="char:EOLhyphen"/>draw with him the influences of his grace &amp; mercy.</hi>
+            </p>
+            <p>Our fore-fathers when they came to the Church every Sabbath day, would leave at the Church door their books their paddles, and their ſtaves; the Sermon being ended, or the Homily rend over, they would every one of them take up that brown bill which was his own, and ſo depart unto their owne heu<g ref="char:EOLhyphen"/>ſes,</p>
+            <p>A Miniſter of thoſe times obſerving it, and withal how unprepared they came to perform the dutyes of that day. told them that they brought their ſins along with them to the Church as they brought their ſtaves, they left them at the door when they came in them<g ref="char:EOLhyphen"/>ſelves, but the Sermon being ended, they all of them did take them up again, and carry
+<pb n="4" facs="tcp:110494:4"/>
+them home in their hearts, as they did the Staves on their Shoulders or in their hands.</p>
+            <p>This was the neglect with which our fore fathers were charges, but we are a Generati<g ref="char:EOLhyphen"/>on more unrighteous then they, we leave not our manerly ſins at the Church-doors as they did, but we take them into the Church with us, and we ſhut our ears unto the Charmer, Charm he never ſo wiſely: when the Mini<g ref="char:EOLhyphen"/>ſter is exhorting us to our dutyes, our hearts are running after our Covetouſneſſe, or our pleaſures, and while he is ſowing the ſeed we are multiplying the Caves, for this cauſe ma<g ref="char:EOLhyphen"/>ny of us are ſick and many falll aſleep, and many do fall into the Implacable ſnares of the Divel.</p>
+            <p>It is worth your obſervation and a larger Sheet then this to declare unto you by what degrées of Temptation the Divell doth, work on the hearts of men to deſtroy themſelves: And in the firſt place, you are to know that the Divell worketh moſt on thoſe Tempers which are moſt prone to receive his Impreſ<g ref="char:EOLhyphen"/>ſions. He knoweth women to be the weaker Weſſetts, and therefore he worketh moſt on that Ser to inſnare them to his wiles. he
+<pb n="5" facs="tcp:110494:4"/>
+knows they are moſt full of Impatience and revenge, and therefore he doth preſent himſelf unto them in that form which he conceivs to he moſt agreeable to them, and doth give them large promiſes with ſome aſſurances that their deſires in all things ſhall be performed. being made their familiars, he by degrées will ſhew himſelf in his old colours, and then they are prepared for any miſchief which their Imaginations at firſt did ſtartle to appre<g ref="char:EOLhyphen"/>hend,</p>
+            <p>Amongſt men there is none more fit for the Divell to work upon then the proud man, the melancholly man, and the diſcontented man: <hi>Job ſaith, That the Divel is the father of the children of pride,</hi> And God ſaith, <hi>It is not good for man to be alone; melancholly is the mother of diſcontent, &amp; diſcontent be<g ref="char:EOLhyphen"/>geteth diſpair.</hi>
+            </p>
+            <p>There are more Temptations in a melan<g ref="char:EOLhyphen"/>cholly and a retyred life, then in a life that is ſociable. and we are adviſed to avoid melan<g ref="char:EOLhyphen"/>cholly as the greateſt enemy to the ſoul and body.</p>
+            <p>Wilt thou avoid the occaſions of deſpair, and temptation (ſaith the wiſe man) truſt not too much to thy ſelf alone.</p>
+            <p>
+               <pb n="6" facs="tcp:110494:5"/>
+It is yet freſh in our memory, ſince a man of a vaſt eſtate hang'd himſelf in Biſhopsgate ſtreet, And Thornely reaſon that could be gi<g ref="char:EOLhyphen"/>ven for it was that he was a proud man, from hring he diſcerned to melancholly, and from melancholly to a deſprate Reſolution to hang himſelf. His pride did Tempt him to a retir<g ref="char:EOLhyphen"/>coneſſe he thought himſelf too good &amp; too great for other men and this having drawn him in<g ref="char:EOLhyphen"/>to an obſtinate melancholly, it did leave him the lamentable Butce at which all Tempta<g ref="char:EOLhyphen"/>tions did ſhoot, he did ſhut his witfull ear a<g ref="char:EOLhyphen"/>gainſt all Counſell and comfort from others, neither would he receive any from himſelf: thoſe apprehenſions being moſt gratefull to him that could aſſiſt him with the ſwifteſt in<g ref="char:EOLhyphen"/>vention to diſpatch himſelf.</p>
+            <p>It is poſſible howſoever that ſome man may be put to ſo much diſtreſſe that he may put an end of his life to put an end to his ſor<g ref="char:EOLhyphen"/>rows, but for a man y<hi rend="sup">t</hi> aboundeth in wealth and in the love and reputation of all men, for him to drown or to hang himſelf, is much to be admired and it ſhoweth that the power of the <hi>Prince of darkneſſe</hi> is ſo much the ſtron<g ref="char:EOLhyphen"/>ger on him by how much there apeareth no<g ref="char:EOLhyphen"/>thing in reaſon or in Naſure that might in<g ref="char:EOLhyphen"/>invite
+<pb n="7" facs="tcp:110494:5"/>
+him to put ſo horrible an Act in Exe<g ref="char:EOLhyphen"/>cution.</p>
+            <p>
+               <hi>Richard Biggrave of Cow lane</hi> a Coa<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> maker by his Profeſſion, was a man that live in good reputation, and well beloved by al his neighbors. Thoſe who knew him do al report him to be of a civell and a frée Converſation, and never to ſhow the leaſt ſign of any di<g ref="char:EOLhyphen"/>ſtruſt in the merey of God, or of any enor<g ref="char:EOLhyphen"/>mous ſin that did lye heavy upon his Conſci<g ref="char:EOLhyphen"/>ence.</p>
+            <p>He was of a liberall and a chéerfull diſpo<g ref="char:EOLhyphen"/>ſition, and frée from thoſe wants which com<g ref="char:EOLhyphen"/>mo nly do clowd and oppreſſe the Spirits, All that knew him were glad of his company, and they do as much lawent him being dead, as they did love him being alive.</p>
+            <p>He was a ſtrict obſerver of his word, and whatſoever he did promiſe he would be moſt carefull to perform. He had a wife who had a long time béen ſick, he loved her moſt initrely inſomuch y<hi rend="sup">t</hi> he was heard to ſay, that if ſhe re<g ref="char:EOLhyphen"/>covered not the ſooner, his own dayes would be few amongſt the lioing: Some there are who do impute theſe words as a for a runner to the ſad Sequels that did follow.</p>
+            <p>He was a conſtant obſerver of the Sabath
+<pb n="8" facs="tcp:110494:6"/>
+day, and an Example to others in the perfor<g ref="char:EOLhyphen"/>mance of Religious dutyes: From ſuch a life as he did lead, no man could expect ſuch an end as he had, &amp; thoſe who firſt heard of it, would not beleeve it, untill by their own eyes they were convinced of the truth of it.</p>
+            <p>He had promiſes &amp; Gentleman of quality that his Coach and furniture belonging to it ſhould he ready on ſuch a day, which becauſe it could not ſo ſudenly vs performed, there are not ſome wanting who do affirm it to be the only cauſe why he did lay violent hands upon himſelf, but it is not to be beléev'd that ſo wiſe and ſo deliberate a man ſhould raſhly commit ſo horrible a folly: or that ſo diſmall an end ſhould ariſe from no greater a beginning. Howſoever it was, tis too true that on <hi>Thurſ<g ref="char:EOLhyphen"/>day May</hi> the 6. he was found to be hanged in his own houſe; Being ſuddenly cut down by the firſt that did behold him it was impoſſible to recover him to life, and his friends &amp; neigh<g ref="char:EOLhyphen"/>bors that paſſed to ſée him became almoſt as very Carkaſſes as himſelf, being amazed at ſo unexpected, and ſo ſad a ſight: &amp; not know<g ref="char:EOLhyphen"/>ing what to impute it to.</p>
+            <p>Much about the ſame time on the ſame day there were two hanged themſelves in <hi>Weſt-minſter,</hi>
+               <pb n="9" facs="tcp:110494:6"/>
+an old man and a young, There was a woman alſo who on the ſame day did cut her throat in <hi>Holborn.</hi> The Narration whereof at large I do purpoſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and do make haſt to that which followeth being a ſubject which none can hear without as much amazement as fears and prayers</p>
+            <p>He who exactly ſhall conſider of this Gen<g ref="char:EOLhyphen"/>tleman will beléeve that Nature. Fortune, learning and religion had conſpired to make him abſolute, and who ſhall behold him dead as he was dragged out of the Ducking-pond, néer to <hi>Iſlington,</hi> and lay two dayes together on the bank to be a lamentable Spectacle In the thrée ſcore and third year of his Age will conclude again that he was forſaken by Na<g ref="char:EOLhyphen"/>ture Fortune and Religion.</p>
+            <p>His name was <hi>Michael Berkly,</hi> he was de<g ref="char:EOLhyphen"/>ſcended of an honourable Family in <hi>Kent,</hi> he was born on <hi>Michaelmas day,</hi> in the yeare 1597. and being likely to dye on the ſame day that he came into the world he was immedi<g ref="char:EOLhyphen"/>ately Chriſtoned and named <hi>Michael,</hi> after the name of the Ark Angell to whoſe memo<g ref="char:EOLhyphen"/>ry the Church had dedicated that day of his Nativity</p>
+            <p>He had his Education in that famous ſchool
+<pb n="10" facs="tcp:110494:7"/>
+of <hi>Eat on,</hi> where in the whole progreſſe of good Letters he excelled all thoſe that were his Companions. From thence he came to <hi>Chriſt Church</hi> in <hi>Oxford,</hi> and being famous for his learning and Ingenuity, he received the Formality and degrée of Batchelor of Arts, and no man contradieting it, he was tho<g ref="char:EOLhyphen"/>ſen Collector, which is an Honour that at y<hi rend="sup">t</hi> time was given yearly unto him, who was thought to be the moſt generous &amp; deſerving Graduate.</p>
+            <p>Here it was that he received the uncom<g ref="char:EOLhyphen"/>fortable news of his Fathers death, who left him a great eſtate both in Land and monyes, He could never be perſwaded by his deareſt friends to marry, although many young La<g ref="char:EOLhyphen"/>dyes were mentioned to him admirable for their Beautyes and Vertues.</p>
+            <p>His mind was altogether on Travell and on the 23. year of his Age he imbarked him<g ref="char:EOLhyphen"/>ſelf for <hi>France,</hi> not ſo much with a deſire to behold Noveltyes and the Faſhions of other Nations, as the manner of their Govern<g ref="char:EOLhyphen"/>ment. &amp; in this there were few that ſurpaſſed him, for being the Maſter of a great purſe he had the opportunity to inſtnuate himſelf into the Acquaintance of the greateſſ Perſonages
+<pb n="11" facs="tcp:110494:7"/>
+where he would make ſuch a manifeſtation of his learning, and of the excellent Judge<g ref="char:EOLhyphen"/>ments of Nature, that many times they de<g ref="char:EOLhyphen"/>parted with admiration frem him. It was not his deſire to come acquainted with the greateſt Gallants, but with the greateſt ſchol lers, he ſpent moſt of his time in Travell, and he ving underſtood in one Kingdome the Me. thou and the Myſtery of the Government of it, he would Travell into another.</p>
+            <p>He was taken with no place more than <hi>Spain,</hi> and although he extolled the wiſedom and ſolemne gravity of the people, yet he as much abhominated their cruelty. When he was in <hi>Rome</hi> and in <hi>Germany</hi> he had his con<g ref="char:EOLhyphen"/>verſation with the greateſt Cardinals, and would put ſuch queſtions to them in the de<g ref="char:EOLhyphen"/>ſence of our Religion, and follow his Diſ<g ref="char:EOLhyphen"/>courſe ſo wiſely that they knew not what to ſay to him. Having béen oftentimes beyond the Seas; at length his Age and health did adviſe him to ſtay in <hi>England,</hi> and although the Parliament would willingly have im<g ref="char:EOLhyphen"/>ployed him in <hi>Spain.</hi> Upon the great affairs of the ſtate, yet he refuſed their propoſitions, and laid the excuſe upon the account of his health.</p>
+            <p>
+               <pb n="12" facs="tcp:110494:8"/>
+Being in <hi>England,</hi> he was a great hearer of Sermons be-would very ſaldome miſſe the <hi>London</hi> Lecture in the morning &amp; he would be very frequent at Senmons in the afternoon and he would conſtantly give you an excel<g ref="char:EOLhyphen"/>lent account of the ability of the Preacher.</p>
+            <p>But theſe ventues were attended with great imperfections he was too great a Lo<g ref="char:EOLhyphen"/>ver of his mony, of which he could not but he the maſter of vaſte conſiderable ſummes, for he lives but very ſparingly at home and uſed all the arts of thrifts although he has a great Eſtate: one of his Servants who dyed ſince a Penſioner in the <hi>Charter-houſe.</hi> being de<g ref="char:EOLhyphen"/>manded why his Maſſer did weare no better cloathes, made anſwer, becauſe he would not have the poore to begge of him as he walked in the ſtréets, and yet for all that he would have a penny for the poore when he pleaſed and ſometimes more. If ſelfe-dentall be indeed a Vertue he was perfect in it, for although he were within he would almoſt conſtantly de<g ref="char:EOLhyphen"/>ny himſelfe to his friends when they came un<g ref="char:EOLhyphen"/>to him upon the promiſe and the account of courteſies, Without all doubt he doted too much upon his mony, and it was thought that ſometimes the greateſt reaſon of his trabailes
+<pb n="13" facs="tcp:110494:8"/>
+abroad, was becauſe he would not be troubled with the charge of his brothers at home.</p>
+            <p>He was extreamly high conceited of him<g ref="char:EOLhyphen"/>ſelf, for he thought himſelf to be one of the wiſeſt men and one of the beſt Schollers in the world, and he accounted thoſe to be his beſt friends who were of the ſame opinion with him. The love of his mony brought him to ſuch a retiredneſſe that he but ſeldome would be ſéene in the company of any, and this brought him to a deep and an extream melan<g ref="char:EOLhyphen"/>cholly, and to a great ſuſpition of all that be<g ref="char:EOLhyphen"/>longed to him, for without any reaſon he would looke on the fingers of his Servants as on théeves. His high conceit of himſelfe did beget in him an extream arrogance, and this arro<g ref="char:EOLhyphen"/>gance a kind of diſtraction, and a ſickneſſe which all working on him expoſed him to the temptation of going to the <hi>Ducking-pond</hi> on Thurſday <hi>May</hi> 6. Whither being come he de<g ref="char:EOLhyphen"/>manded of ſome who were there at worke which was the deepeſt place of the pond, and more over ſold them that he had a Duck to be hunted by three doggs that were comming to him. The men who were at worke not far from him ſaw him preſently afterwards in the Pond, in which he entred backwards, and
+<pb n="14" facs="tcp:110494:9"/>
+waving up into the knees, or higher, he fell backwards into the water, with which being over whelmed they uſed their ſpeedteſt indea<g ref="char:EOLhyphen"/>vours to pluck him out, and hot waters were ſent for to recover him, but all in vaine for the life could not be recalled.</p>
+            <p>And what good now will his riches one him, which with too much care he boorded up: what good will his birth, his wit, or his expe<g ref="char:EOLhyphen"/>rience gained by ſo much trabaile to him.</p>
+            <p>To conclude, let not the wiſe man beaſt in his wit, nor the rich man in his wealth nor the Scholler in his training, nor the States man in his experience and his policy but let him that rejoyceth rejoyte in this, that he loveth and feareth the Lord.</p>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:110494:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
